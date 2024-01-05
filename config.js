@@ -1,8 +1,7 @@
 /*
-𝐀𝐮𝐭𝐡𝐨𝐫 : Shirokami Ryzen 
-𝐖𝐚 : +6281387307198
-𝐛𝐚𝐬𝐞 : Narutomo & Elaina
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Nov 2022
+𝐀𝐮𝐭𝐡𝐨𝐫 : Justus
+𝐖𝐚 : +254796236093
+𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Nov 2023
 */
 
 import { watchFile, unwatchFile } from 'fs'
@@ -32,7 +31,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['6285174269046', 'Al Qædå', true]]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285864034767'
